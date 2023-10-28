@@ -1,4 +1,4 @@
-# Java-data-insertion-by-FIFO-LIFO-java-sort-types-Bubble-Sort-Merge-Sort.
+# Data Insertion in Java using FIFO and LIFO with Bubble Sort and Merge Sort Algorithms.
 Development of systems for handling data in dynamic and non-homogeneous files, strings and structures.
 
 Starting the program.
